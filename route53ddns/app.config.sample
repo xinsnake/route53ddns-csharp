@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <startup>
+    <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5.1"/>
+  </startup>
+  <appSettings>
+    <add key="AWSAccessKey" value="YOUR_ACCESS_KEY_HERE"/>
+    <add key="AWSSecretKey" value="YOUR_SECRET_KEY_HERE"/>
+    <add key="TargetZoneId" value="YOUR_ZONE_ID_HERE"/>
+    <add key="TargetFQDN" value="YOUR.FQDN.HERE."/>
+  </appSettings>
+</configuration>
