@@ -66,11 +66,11 @@
     <GenerateManifests>true</GenerateManifests>
   </PropertyGroup>
   <PropertyGroup>
-    <SignManifests>true</SignManifests>
+    <SignManifests>false</SignManifests>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="AWSSDK">
-      <HintPath>..\packages\AWSSDK.2.0.6.1\lib\net45\AWSSDK.dll</HintPath>
+      <HintPath>..\packages\AWSSDK.2.0.14.0\lib\net45\AWSSDK.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.configuration" />
